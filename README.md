@@ -3,6 +3,10 @@
 🔭 I’m currently working on: DSA, Web Development, DBMS & System Design<br>🌱 I’m currently learning: Data Structures & Algorithms, System Design fundamentals<br>💻 I work with: HTML, CSS, JavaScript (Front-end) & Python<br>🤝 I’m looking to collaborate on: front-end or Python-based projects<br>🆘 I’m looking for help with: advanced DSA problem-solving & system design concepts<br>💬 Ask me about: front-end development, Python core<br>⚡ Fun fact: I love turning tricky ideas into clean, working code
 
 
+
+# 🐍 Snake Munching My Contributions
+![snake animation](https://raw.githubusercontent.com/nihal00002/nihal00002/output/github-snake-dark.svg)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/au8pY8uUS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nihal_kavit_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nihal-kumar-592241270/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@kavitcam_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihalkumar12092002@gmail.com) 
 
